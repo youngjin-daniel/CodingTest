@@ -27,6 +27,3 @@ while True:
 
 print(count)
 
-
-
-

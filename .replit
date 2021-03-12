@@ -1,2 +1,5 @@
 language = "python3"
-run = "python Greedy/1이될때까지/main.py"
+
+# Run 버튼을 누르면 아래 문자열이 실행됨
+# "python 실행하고자하는파일경로"
+run = "python Greedy/모험가길드/main.py"
